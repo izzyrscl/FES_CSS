@@ -1,0 +1,11 @@
+div {
+  background-color: red;
+  color: white;
+  font-size: 24px;
+}
+
+@media (max-width: 576px) {
+  div {
+    font-size: 16px;
+  }
+}
